@@ -11,7 +11,6 @@ Kadae addresses:
 - Limited structured comparison between politicians
 - Poor visibility into fulfillment status
 
----
 
 ## System Overview
 
@@ -36,8 +35,6 @@ Kadae consists of:
    - Displays politician-level delivery scores
    - Built for rapid iteration and transparency
 
----
-
 ## 📊 Current Features
 
 - Structured promise dataset
@@ -46,7 +43,6 @@ Kadae consists of:
 - Interactive dashboard prototype
 - Modular architecture for future ML integration
 
----
 
 ## Roadmap
 
@@ -59,7 +55,6 @@ Planned extensions include:
 - Historical trend visualization
 - Model-based fulfillment likelihood estimation
 
----
 
 ## 🛠 Tech Stack
 
@@ -69,7 +64,6 @@ Planned extensions include:
 - Modular scoring pipeline
 - Lightweight NLP (regex-based prototype)
 
----
 
 ## ▶️ Run Locally
 

@@ -1,11 +1,11 @@
-# Kadae
-Kadae is an NLP-driven political intelligence platform that extracts, structures, and evaluates campaign promises from large-scale unstructured text. It combines supervised classification, entity extraction, and probabilistic modeling to track promise fulfillment and surface accountability signals.
+# Receipts
+Receipts is an NLP-driven political intelligence platform that extracts, structures, and evaluates campaign promises from large-scale unstructured text. It combines supervised classification, entity extraction, and probabilistic modeling to track promise fulfillment and surface accountability signals.
 
 Problem
 
 Political promises are often unstructured, scattered across speeches and media, and difficult to track longitudinally.
 
-Kadae addresses:
+Receipts addresses:
 - Lack of systematic promise tracking
 - No standardized delivery scoring
 - Limited structured comparison between politicians
@@ -14,7 +14,7 @@ Kadae addresses:
 
 ## System Overview
 
-Kadae consists of:
+Receipts consists of:
 
 1. **Promise Ingestion Layer**
    - Structured CSV ingestion (prototype)
